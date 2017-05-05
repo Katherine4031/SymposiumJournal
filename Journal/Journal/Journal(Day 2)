@@ -1,0 +1,11 @@
+5/5/17
+
+	We decided that our game needs a Main Class, Player Class and Interface, Enemy Class and Interface, Map Class,
+Food Class and Interface. The Main Class will run the game, the Player Class will create the player, the Player Interface will 
+have the methods getPlayerPosition(), canEat(), the Enemy Class will create the Enemies, the Enemy Interface will have 
+the methods isEaten(), backToBase(), the Map Class will generate it's own map, the Food Class will create Food, and the 
+Food Interface will have the methods increasePoints(), isAPowerUp(). We will create these basic classes and interfaces 
+first for the foundation of our game, and later make improvements.
+	The both of us will work on the Main Class and the Map Class. I will be responsible for the Player Class, Player
+Interface, Food Class, and Food Interface. Risa will be responsible for the Enemy Class and Interface, and later an
+additional class we will use to improve the game.
