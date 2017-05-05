@@ -8,4 +8,4 @@ Food Interface will have the methods increasePoints(), isAPowerUp(). We will cre
 first for the foundation of our game, and later make improvements.
 	The both of us will work on the Main Class and the Map Class. I will be responsible for the Player Class, Player
 Interface, Food Class, and Food Interface. Risa will be responsible for the Enemy Class and Interface, and later an
-additional class we will use to improve the game.
+additional class we will use to improve the game. We will begin coding next Monday.
