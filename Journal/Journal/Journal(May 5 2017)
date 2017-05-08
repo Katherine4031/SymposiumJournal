@@ -1,4 +1,4 @@
-5/5/17
+Day 2
 
 	We decided that our game needs a Main Class, Player Class and Interface, Enemy Class and Interface, Map Class,
 Food Class and Interface. The Main Class will run the game, the Player Class will create the player, the Player Interface will 
