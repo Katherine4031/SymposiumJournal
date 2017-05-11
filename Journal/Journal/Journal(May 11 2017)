@@ -1,0 +1,6 @@
+Day 6
+
+	We will most likely be done with the Player Class/Interface, Food Class/Interface, and Enemy Class/Interface by
+tomorrow. We don't know why the display is not working, so we will fix that tomorrow as well. 
+	I also decided to have an arrayList of player names and high scores, and for the power up food to be able to 
+disappear or swap places with normal food. 
