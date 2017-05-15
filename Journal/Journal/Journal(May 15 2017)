@@ -1,0 +1,7 @@
+Day 8
+
+	Today was a semi-productive day. I don't understand why keyPressed() wasn't working even though it did last Friday.
+We created the field gameStart = false, and then changed it to true in initObjects(), but after testing it out some more
+we found out that gameStart is not actually being changed. So instead of initializing gameStart as false, we just
+created gameStart, left it as true in initObjects(), and it worked.
+	Tomorrow I hope to get more done, because I have problems managing time.
