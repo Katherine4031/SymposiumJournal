@@ -1,0 +1,5 @@
+Day 9
+
+	Working on getting the player to move continuously in one direction when an arrow key is pressed once. Logically
+what we are doing makes sense, but the code doesn't seem to execute it the way we want to. Once we figure this out we
+can move onto creating the map.
