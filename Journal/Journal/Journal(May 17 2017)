@@ -1,0 +1,7 @@
+Day 10
+
+	We got the player to display and move continuously in the direction the arrow is pressed. We also got the enemy to 
+continuously to chase after the player. We still need to code the part when the enemy touches the player and the player 
+did not eat a power up, then it would be game over; or the player did eat a power up and the enemy disappears. I will 
+finish coding the food class after we create the map, because I need to figure out the layout to display the food.
+	We will start making the map tomorrow.
