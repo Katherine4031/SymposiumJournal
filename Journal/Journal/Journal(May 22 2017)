@@ -1,0 +1,5 @@
+Day 11
+
+	We were thinking of using 2DGraphics to create walls to create one set Map. The coordinates of each wall will be 
+stored in 2D Array so we can make sure the player does not pass through those walls. We don't want to hard code it
+repetitively so we are trying to see if we can create an algorithm?
