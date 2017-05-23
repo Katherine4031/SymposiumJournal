@@ -1,0 +1,5 @@
+Day 12
+
+	For the algorithm, we decided to hard code a section of the map and then we reflect that section so we don't have
+to manually type g.drawRect for every box. At first we were confused because we couldn't get it to draw what we wanted
+but I think we are starting to grasp the pixels thing.
