@@ -1,0 +1,5 @@
+Day 13
+
+	We are still drawing the map. We're thinking since the map will logically work like a grid, we will label each box as 
+either 1 = empty space, 2 = food, 3 = wall. This will be put in an array and will make it easier for us to program the 
+player and enemy movements when they hit a wall or eat.
