@@ -1,0 +1,5 @@
+Day 15
+
+	We paused off on creating the map for now. We think it would be better to check that we are adding the right 
+coordinates to the ArrayList by testing if the player passes the borders that we set. It's kind of confusing because on
+the game we created it starts at (20, 40) but on the Map (20, 40) is the starting point (0,0). 
