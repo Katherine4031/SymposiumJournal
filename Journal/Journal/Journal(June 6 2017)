@@ -1,0 +1,5 @@
+Day 19
+
+	We started getting the map to visualize. We kind of have an algorithm for the map; it works but it requires a lot
+of for loops and if statements. The problem we also kind of have is that for the player to move through we need to
+have the walls two spaces apart from other walls or the player will not move or pass through.
