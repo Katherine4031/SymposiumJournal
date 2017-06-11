@@ -1,3 +1,4 @@
 Day 17
 
-	
+	We saw that the position of the player was determined by the left border side of the image, so we changed the conditions of when the
+player couldn't move by comparing the (width, height) to the (x, y) of the borders depending on the direction the player wants to move.
